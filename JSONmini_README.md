@@ -1,0 +1,3 @@
+# JSONminiProject
+
+JSON file analysis
